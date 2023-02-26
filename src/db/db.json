@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Mohit Gupta",
+      "email": "mohit@gmail.com",
+      "age": "25",
+      "phone": "9899940034",
+      "profession": "Full Stack Developer",
+      "address": "Delhi, India",
+      "description": "Hello I am Full stack web developer. I am from delhi",
+      "id": 1
+    },
+    {
+      "name": "Rohan Mishra",
+      "email": "rohan@gmail.com",
+      "age": "32",
+      "phone": "8989765343",
+      "profession": "Designer",
+      "address": "Pune, Maharastra",
+      "description": "Hii, I am Rohan a full time dedicated designer",
+      "id": 2
+    }
+  ]
+}
